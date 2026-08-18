@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+Student;C%2C+C%2B%2B+%26+Web+Developer;WordPress+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DervisMartinez&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil" />
+</div>
+
 <br/>
 
 ## 👨‍💻 Acerca de mí (About Me)
@@ -44,8 +48,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DervisMartinez&show_icons=true&theme=tokyonight&hide_border=true" alt="DervisMartinez's GitHub stats" />
-  <br/>
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DervisMartinez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DervisMartinez&theme=tokyonight&hide_border=true" alt="DervisMartinez's Streak Stats" />
 </div>
 
@@ -54,7 +60,7 @@
 ## 🌐 Conéctate conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/dervis-martinez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/tu-usuario" target="_blank">
