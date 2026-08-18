@@ -18,7 +18,7 @@
 - 💼 Colaborador en proyectos para **Radio América 90.9 FM**, **BlackMedia**, y **dctv.ve**.
 - 🛠️ Experiencia creando plugins para **WordPress** y aplicaciones web interactivas.
 - 💬 Pregúntame sobre **C, C++, JavaScript, HTML y PHP**.
-- 📫 Cómo contactarme: **[Tu Correo Electrónico]**
+- 📫 Cómo contactarme: **[dervismartinez20@gmail.com]**
 
 <br/>
 
