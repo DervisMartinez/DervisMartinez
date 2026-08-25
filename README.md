@@ -69,6 +69,14 @@ Sistemas y portales en los que he colaborado o desarrollado, diseñados con un e
         <br /><strong><a href="https://empresasdelvalle.com.ve" target="_blank">Empresas del Valle</a></strong>
       </td>
     </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://medi-admin-pro.vercel.app/" target="_blank">
+          <img src="https://s0.wordpress.com/mshots/v1/https://medi-admin-pro.vercel.app/?w=400" alt="Medi Admin Pro" width="350"/>
+        </a>
+        <br /><strong><a href="https://medi-admin-pro.vercel.app/" target="_blank">Medi Admin Pro (Proyecto Universitario)</a></strong>
+      </td>
+    </tr>
   </table>
 </div>
 
