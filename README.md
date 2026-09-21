@@ -14,7 +14,7 @@ Soy estudiante de la Licenciatura en Computación en la **Universidad de Carabob
 - 🎓 **Formación Académica**: Algoritmos, Estructuras de Datos, Arquitectura de Computadores y Bases de Datos.
 - 💡 **Experiencia Técnica**: Desarrollo integral de aplicaciones web, portales de clasificados y creación de plugins a la medida para entornos corporativos (WordPress).
 - 🌱 **Evolución Continua**: Adopción de mejores prácticas y exploración de nuevas tecnologías, fortaleciendo actualmente mis habilidades en lenguajes como Python, C++ y JavaScript.
-- 📫 **Contacto Directo**: [Tu Correo Electrónico]
+- 📫 **Contacto Directo**: [dervismartinez20@gmail.com]
 
 <br/>
 
@@ -70,7 +70,13 @@ Sistemas y portales en los que he colaborado o desarrollado, diseñados con un e
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center">
+        <a href="https://eldesignadove.vercel.app/" target="_blank">
+          <img src="https://s0.wordpress.com/mshots/v1/https://eldesignadove.vercel.app/?w=400" alt="El Design a Dove" width="350"/>
+        </a>
+        <br /><strong><a href="https://eldesignadove.vercel.app/" target="_blank">El Design a Dove</a></strong>
+      </td>
+      <td align="center">
         <a href="https://medi-admin-pro.vercel.app/" target="_blank">
           <img src="https://s0.wordpress.com/mshots/v1/https://medi-admin-pro.vercel.app/?w=400" alt="Medi Admin Pro" width="350"/>
         </a>
