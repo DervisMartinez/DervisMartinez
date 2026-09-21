@@ -74,7 +74,7 @@ Sistemas y portales en los que he colaborado o desarrollado, diseñados con un e
         <a href="https://eldesignadove.vercel.app/" target="_blank">
           <img src="https://s0.wordpress.com/mshots/v1/https://eldesignadove.vercel.app/?w=400" alt="El Design a Dove" width="350"/>
         </a>
-        <br /><strong><a href="https://eldesignadove.vercel.app/" target="_blank">El Design a Dove</a></strong>
+        <br /><strong><a href="https://eldesignadove.vercel.app/" target="_blank">El Designado</a></strong>
       </td>
       <td align="center">
         <a href="https://medi-admin-pro.vercel.app/" target="_blank">
